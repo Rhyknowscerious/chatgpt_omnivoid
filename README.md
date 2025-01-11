@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains various documents that outline the principles, tenets, and discussions related to Ryan's Cult of the Omnivoid. The Cult is a dynamic and evolving philosophy that integrates elements of Eastern philosophies, modern science, technology, and humanistic ethics.
+<https://github.com/Rhyknowscerious/chatgpt_omnivoid/tree/main>
 
 ## Contents
 
